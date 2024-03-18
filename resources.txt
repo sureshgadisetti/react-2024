@@ -1,0 +1,11 @@
+https://github.com/deepakkumarshinde1/Edureka-Batch-02-March-2024-Evening-React
+
+https://create-react-app.dev/
+
+https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?pli=1
+
+https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
+
+https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+https://excalidraw.com/#json=qiiU27WL0Ili95w2VtBnj,3Xcn2EkUu-2r9NjLnYs0Pw
